@@ -1,0 +1,2 @@
+Log test 1
+Log test 2
